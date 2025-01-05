@@ -1,0 +1,195 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+.navbar {
+    background-color: black;
+    height: 100px;
+    width: 100%;
+}
+
+li {
+    display: inline-block;
+}
+
+a {
+    margin-left: 10px;
+    text-decoration: none;
+    color: grey;
+}
+
+a:hover {
+    color: #fff;
+}
+
+.best{
+color: #fff;
+}
+
+ul {
+    margin-left: 800px;
+    padding-bottom: 30px;
+}
+
+.images {
+    position: relative;
+    right: 650px;
+}
+
+.lite {
+    padding-top: 20px;
+}
+
+.inter {
+    border: 0, 5px solid white;
+    background-color: rgb(20, 14, 14);
+    height: 40px;
+}
+
+/* Main section */
+
+.heading {
+    color: #fff;
+    font-size: 35px;
+}
+
+.box {
+    height: 40px;
+    width: 150px;
+    background-color: transparent;
+    border: 1px solid white;
+    color: #fff;
+}
+
+.box-4{
+    height: 40px;
+    width: 150px;
+    background-color: transparent;
+    border: 1px solid white;
+    color: #fff;
+    background-color: rgb(247, 140, 9) ;
+}
+
+
+
+.interface {
+    width: 100%;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(../img/bg_header.jpg);
+    text-align: center;
+}
+
+.peges {
+    color: floralwhite;
+}
+
+.box1 {
+    padding-top: 200px;
+}
+
+.box2 {
+    text-align: center;
+    padding-top: 60px;
+}
+
+.book {
+    font-size: 25px;
+    text-align: center;
+}
+
+.interface2 {
+    width: 80%;
+    height: 500px;
+    margin-left: 10%;
+}
+.int{
+    background-color: whitesmoke ;
+}
+
+.full1 {
+    display: flex;
+    text-align: center;
+}
+
+.power {
+    font-size: 25px;
+
+}
+
+.select2 {
+    height: 550px;
+    width: 100%;
+    padding-top: 50px;
+}
+
+.spain {
+    color: blue;
+}
+
+.break {
+    display: flex;
+}
+
+.news {
+    margin-top: 100px;
+    background-color: whitesmoke;
+    width: 80%;
+    height: 150px;
+}
+
+.type {
+    height: 30px;
+    width: 120px;
+    margin-left: 800px;
+    background-color: rgb(250, 140, 5) ;
+    color: #fff;
+    border: 1px solid;
+    border-radius: 5px;
+}
+
+.news1 {
+    margin-left: 300px;
+}
+
+.news2 {
+    padding-top: 60px;
+    padding-left: 20px;
+}
+
+.message {
+    display: flex;
+    background-color: black;
+    color: #fff;
+    height: 300px;
+    padding-left: 80px;
+}
+
+.message1 {
+    padding-top: 40px;
+    margin-left: 100px;
+}
+
+.interface3 {
+    width: 50%;
+    margin-left: 150px;
+}
+
+.interface4 {
+    width: 50%;
+    margin-right: 150px;
+}
+
+.macbook2 {
+    padding-left: 100px;
+    padding-right: 50px;
+}
+
+.macbook1 {
+    padding-left: 50px;
+}
+.icon{
+    width: 200px;
+}
